@@ -42,7 +42,7 @@
 <br/>
 <br/>
 
-📧 `rbfla0426_1@naver.com`
+`rbfla0426_1@naver.com`
 
 <br/>
 <br/>
