@@ -37,7 +37,7 @@
 <sub>Find me here</sub>
 
 <a href="https://hellolotusroot.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-C8FF2E?style=flat-square&logo=googlechrome&logoColor=18181B" alt="Portfolio"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-`rbfla0426_1@naver.com`
+$\colorbox{#C8FF2E}{\textbf{\textsf{\color{#18181B}\ \ rbfla0426\_1@naver.com\ \ }}}$
 
 <br/>
 <br/>
