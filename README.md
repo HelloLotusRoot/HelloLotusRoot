@@ -32,15 +32,14 @@
 
 <br/>
 
-## Portfolio & Contact
+<h3>PORTFOLIO &amp; CONTACT</h3>
 
-<sub>Find me here</sub>
+<sub>Explore my work · Let's connect</sub>
 
 <br/>
-<br/>
 
-<a href="https://hellolotusroot.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-C8FF2E?style=flat-square&logo=googlechrome&logoColor=18181B" alt="Portfolio"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<kbd>rbfla0426_1@naver.com</kbd>
+<a href="https://hellolotusroot.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-C8FF2E?style=for-the-badge&logo=googlechrome&logoColor=18181B" alt="Portfolio"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:rbfla0426_1@naver.com"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/>
 <br/>
