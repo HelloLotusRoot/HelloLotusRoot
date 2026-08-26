@@ -1,6 +1,10 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=765A3A&text=&animation=twinkling&height=90)
+
 <div align="center">
 
-# 아이디어를 동작하는 서비스로. ✦
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=600&size=36&duration=4000&pause=1000&color=765A3A&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Welcome+to+HelloLotusRoot's+GitHub!;아이디어를+동작하는+서비스로+✦;Backend+%26+Fullstack+Developer+강규림)](https://github.com/HelloLotusRoot)
+
+<br/>
 
 ### 강규림 · Backend & Fullstack Developer
 
