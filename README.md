@@ -40,8 +40,9 @@
 <a href="mailto:rbfla0426_1@naver.com"><img src="https://img.shields.io/badge/Email-C8FF2E?style=flat-square&logo=gmail&logoColor=18181B" alt="Email"/></a>
 
 <br/>
+<br/>
 
-`rbfla0426_1@naver.com`
+📧 `rbfla0426_1@naver.com`
 
 <br/>
 <br/>
