@@ -37,12 +37,14 @@
 <sub>Find me here</sub>
 
 <a href="https://hellolotusroot.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-C8FF2E?style=flat-square&logo=googlechrome&logoColor=18181B" alt="Portfolio"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:rbfla0426_1@naver.com"><img src="https://img.shields.io/badge/Email-C8FF2E?style=flat-square&logo=gmail&logoColor=18181B" alt="Email"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rbfla0426_1@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-C8FF2E?style=flat-square&logo=gmail&logoColor=18181B" alt="Email"/></a>
 
 <br/>
 <br/>
 
-`rbfla0426_1@naver.com`
+```text
+rbfla0426_1@naver.com
+```
 
 <br/>
 <br/>
