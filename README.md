@@ -39,7 +39,7 @@
 <br/>
 
 <a href="https://hellolotusroot.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-C8FF2E?style=for-the-badge&logo=googlechrome&logoColor=18181B" alt="Portfolio"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:rbfla0426_1@naver.com"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<kbd>rbfla0426_1@naver.com</kbd>
 
 <br/>
 <br/>
