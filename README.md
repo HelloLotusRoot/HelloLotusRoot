@@ -37,8 +37,11 @@
 <sub>Find me here</sub>
 
 <a href="https://hellolotusroot.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-C8FF2E?style=flat-square&logo=googlechrome&logoColor=18181B" alt="Portfolio"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/HelloLotusRoot" target="_blank"><img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:rbfla0426_1@naver.com"><img src="https://img.shields.io/badge/rbfla0426__1%40naver.com-C8FF2E?style=flat-square&logo=gmail&logoColor=18181B" alt="Email"/></a>
+<a href="mailto:rbfla0426_1@naver.com"><img src="https://img.shields.io/badge/Email-C8FF2E?style=flat-square&logo=gmail&logoColor=18181B" alt="Email"/></a>
+
+<br/>
+
+`rbfla0426_1@naver.com`
 
 <br/>
 <br/>
