@@ -28,7 +28,7 @@
 | **[WePlan](https://github.com/HelloLotusRoot/wePlan)** | 개인 일정과 교대 근무를 한눈에 관리하는 통합 캘린더 플랫폼 | React · Spring Boot · MySQL | [View →](https://github.com/HelloLotusRoot/wePlan) |
 | **[Life Quest](https://github.com/HelloLotusRoot/LifeQuest)** | 현실의 활동을 퀘스트처럼 즐기며 성장하는 라이프 RPG 플랫폼 | Flutter · Spring Boot · MySQL | [View →](https://github.com/HelloLotusRoot/LifeQuest) |
 | **[두고내림 (DOGO)](https://github.com/HelloLotusRoot/dogo)** | 분실물·습득물·실종 대상 위치 기반 통합 매칭 플랫폼 | Java · Spring Boot · MySQL · Kakao Maps API | [View →](https://github.com/HelloLotusRoot/dogo) |
-| **[실시간 셔틀버스 위치 서비스](https://github.com/HelloLotusRoot/capstonePro)** | 셔틀버스 실시간 위치(위도·경도) 수집 및 지도 연동 백엔드 | Java · Spring Boot · WebSocket | [View →](https://github.com/HelloLotusRoot/capstonePro) |
+| **[실시간 셔틀버스<br/>위치 서비스](https://github.com/HelloLotusRoot/capstonePro)** | 셔틀버스 실시간 위치(위도·경도) 수집 및 지도 연동 백엔드 | Java · Spring Boot · WebSocket | [View →](https://github.com/HelloLotusRoot/capstonePro) |
 
 <br/>
 
@@ -36,9 +36,9 @@
 
 <sub>Find me here</sub>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-C8FF2E?style=for-the-badge&logo=googlechrome&logoColor=18181B)](https://hellolotusroot.github.io/portfolio/)&nbsp;&nbsp;&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HelloLotusRoot)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-C8FF2E?style=for-the-badge&logo=gmail&logoColor=18181B)](mailto:rbfla0426_1@naver.com)
+<a href="https://hellolotusroot.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-C8FF2E?style=flat-square&logo=googlechrome&logoColor=18181B" alt="Portfolio"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/HelloLotusRoot" target="_blank"><img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:rbfla0426_1@naver.com"><img src="https://img.shields.io/badge/rbfla0426__1%40naver.com-C8FF2E?style=flat-square&logo=gmail&logoColor=18181B" alt="Email"/></a>
 
 <br/>
 <br/>
